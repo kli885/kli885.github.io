@@ -1862,7 +1862,7 @@
 @media (min-width: 1350px) {
   .chatContent-3KubbW + :last-child {
     position: fixed;
-    top: 280px;
+    top: 80px;
     bottom: 120px;
     right: 60px;
     width: 320px;
@@ -1871,25 +1871,6 @@
 
   .tabBody-2dgbAs {
     transform: none;
-  }
-
-  .container-1eFtFS::after {
-    content: "Stay comfy ❤";
-    position: fixed;
-    top: 220px;
-    bottom: 85px;
-    right: 60px;
-    z-index: -2;
-    width: 320px;
-    background-color: var(--background-primary);
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 30px;
-    color: var(--text-normal);
-    border-radius: var(--border-radius);
-    overflow: hidden;
   }
 
   .container-1eFtFS::before {
@@ -1913,7 +1894,7 @@
     position: fixed;
     width: 305px;
     height: 50px;
-    bottom: 28px;
+    bottom: 0px;
     right: 60px;
     background-color: var(--background-primary);
     border-radius: var(--border-radius);
@@ -1924,6 +1905,6 @@
   }
 
   .layers-OrUESM > :nth-child(2) {
-    margin-right: 450px;
+    margin-right: 400px;
   }
 }
