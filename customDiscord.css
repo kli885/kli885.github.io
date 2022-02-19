@@ -1890,16 +1890,6 @@
     border-radius: 0 var(--border-radius) var(--border-radius) 0;
   }
 
-  /* .panels-3wFtMD > .container-YkUktl {
-    position: fixed;
-    width: 305px;
-    height: 50px;
-    bottom: 0px;
-    right: 60px;
-    background-color: var(--background-primary);
-    border-radius: var(--border-radius);
-  } */
-
   .container-1eFtFS {
     overflow: visible;
   }
