@@ -1628,7 +1628,7 @@
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("https://i.imgur.com/0nsnP69.png") no-repeat;
+  /* background: url("https://i.imgur.com/0nsnP69.png") no-repeat; */
   background-size: 100%;
 }
 :root .app-2CXKsg::after {
