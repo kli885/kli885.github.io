@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito");
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
-/* :root .threadSidebar-1o3BTy {
+:root .threadSidebar-1o3BTy {
   position: fixed;
   top: 220px;
   bottom: 85px;
@@ -1600,7 +1600,7 @@
   background-color: var(--background-secondary-alt);
 }
 
-:root .app-3xd6d0::before, :root .app-3xd6d0::after, :root .app-2CXKsg::after, :root .app-2CXKsg::before, :root .layers-OrUESM::before, :root .layers-OrUESM::after, :root .app-3xd6d0::before, :root .bg-1QIAus::after, :root .bg-1QIAus::before {
+/* :root .app-3xd6d0::before, :root .app-3xd6d0::after, :root .app-2CXKsg::after, :root .app-2CXKsg::before, :root .layers-OrUESM::before, :root .layers-OrUESM::after, :root .app-3xd6d0::before, :root .bg-1QIAus::after, :root .bg-1QIAus::before {
   content: "";
   position: fixed;
   z-index: 1;
@@ -1677,7 +1677,7 @@
   :root .bg-1QIAus::before {
     display: none;
   }
-}
+} */
 
 :root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
   font-family: "Nunito" !important;
@@ -1926,4 +1926,4 @@
   .layers-OrUESM > :nth-child(2) {
     margin-right: 450px;
   }
-} */
+}
