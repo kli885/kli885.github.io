@@ -1873,18 +1873,6 @@
     transform: none;
   }
 
-  .container-1eFtFS::before {
-    content: "";
-    position: fixed;
-    top: 220px;
-    bottom: 85px;
-    right: 70px;
-    z-index: -1;
-    width: 300px;
-    border-radius: var(--border-radius);
-    background: var(--jumping-gif) bottom/40% no-repeat;
-  }
-
   .guilds-2JjMmN + :nth-child(2) {
     margin-right: 450px;
     border-radius: 0 var(--border-radius) var(--border-radius) 0;
