@@ -1873,11 +1873,6 @@
     transform: none;
   }
 
-  .guilds-2JjMmN + :nth-child(2) {
-    margin-right: 450px;
-    border-radius: 0 var(--border-radius) var(--border-radius) 0;
-  }
-
   .container-1eFtFS {
     overflow: visible;
   }
