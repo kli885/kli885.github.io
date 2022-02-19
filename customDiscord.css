@@ -521,7 +521,7 @@
 :root .membersWrap-3NUR2t::before {
   content: "Member list";
   position: absolute;
-  top: 0px;
+  top: -60px;
   z-index: 1;
   width: 100%;
   height: 60px;
@@ -1600,7 +1600,7 @@
   background-color: var(--background-secondary-alt);
 }
 
-:root .app-3xd6d0::before, :root .app-3xd6d0::after, :root .app-2CXKsg::after, :root .app-2CXKsg::before, :root .layers-OrUESM::before, :root .layers-OrUESM::after, :root .app-3xd6d0::before, :root .bg-1QIAus::after, :root .bg-1QIAus::before {
+:root {
   content: "";
   position: fixed;
   z-index: 1;
